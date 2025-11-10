@@ -1,0 +1,9 @@
+{
+  "rows_in": 333644,
+  "dropped_low_votes": 151282,
+  "rows_out": 182362,
+  "genre_long_rows": 354138,
+  "missing_runtime_pct": 0.0,
+  "imputed_runtime_pct": 2.7132845658635025,
+  "missing_genres_pct": 0.0
+}
